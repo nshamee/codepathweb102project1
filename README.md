@@ -1,17 +1,12 @@
-## Running React on Repl.it
+# Electronics Website 📱
+Created an electronics website for a course project. [Link Here](https://imgur.com/a/61EZdui)
 
-[React](https://reactjs.org/) is a popular JavaScript library for building user interfaces.
+## Functionality 
+- A list of cards on a board is created
+-Each one is personalized for speciifc purpose/use case.
+-Clicking on Buy Now leads to link to buy it. 
 
-[Vite](https://vitejs.dev/) is a blazing fast frontend build tool that includes features like Hot Module Reloading (HMR), optimized builds, and TypeScript support out of the box.
+## Tools used 🔨
 
-Using the two in conjunction is one of the fastest ways to build a web app.
-
-### Getting Started
-- Hit run
-- Edit [App.jsx](#src/App.jsx) and watch it live update!
-
-By default, Replit runs the `dev` script, but you can configure it by changing the `run` field in the [configuration file](#.replit). Here are the vite docs for [serving production websites](https://vitejs.dev/guide/build.html)
-
-### Typescript
-
-Just rename any file from `.jsx` to `.tsx`. You can also try our [TypeScript Template](https://replit.com/@replit/React-TypeScript)
+* [React] - The Front End Framework used
+* [JS,HTML,CSS] - Used for the Front End
