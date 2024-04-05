@@ -10,3 +10,6 @@ Created an electronics website for a course project. [Link Here](https://imgur.c
 
 * [React] - The Front End Framework used
 * [JS,HTML,CSS] - Used for the Front End
+
+
+![Electronics Website - Imgur](https://github.com/nshamee/codepathweb102project1/assets/80434243/e8175676-05c2-48ac-aa29-f0845c38f50b)
